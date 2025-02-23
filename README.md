@@ -17,7 +17,7 @@ This repository serves as a documentation  for my major learnings from the ProDe
 * API Integration
 * State Management
 # Challenges Faced and Solutions Implemented
-  The challanges i faces was Implementing API Integration and expo routing gave a bit of problems.
+  The challanges i faced was Implementing API Integration and expo routing gave a bit of problems.
   The Sollution for challange faces was to do more research, watched tortorials and practicing.
 # Best Practices and Personal Takeaways
 Airbnb clone project for both mobile and web development
